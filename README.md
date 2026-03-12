@@ -28,14 +28,15 @@
 
 ---
 
-<h2 align="left">👨‍💻 Sobre mí</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-  Soy un profesional orientado a <b>Cloud</b> y <b>DevOps</b>, con foco en automatizar todo lo que se pueda 🔁, diseñar infraestructuras reproducibles con <b>IaC</b> y desplegar aplicaciones de forma segura y escalable en la nube.<br><br>
-  Trabajo a diario con <b>contenedores, orquestadores y pipelines CI/CD</b>, conectando equipos de desarrollo con plataformas productivas de forma ágil y confiable 🧩.<br><br>
-  Me muevo cómodo entre <b>Python, Java y .NET</b>, construyendo APIs y servicios con frameworks como <b>Spring Boot</b> y <b>Angular</b> para entregar soluciones completas de extremo a extremo ⚙️.<br><br>
-  Me interesa especialmente la <b>observabilidad</b>, la <b>seguridad del código</b> y el <b>performance</b>, apoyándome en herramientas de reporte, métricas y análisis continuo 📈.<br><br>
-  Siempre estoy aprendiendo nuevas tecnologías, patrones y buenas prácticas para llevar cada proyecto un paso más allá 🎯.
+  I'm a <b>Cloud</b> and <b>DevOps</b>-oriented engineer, focused on automating everything I can 🔁, designing reproducible infrastructure with <b>IaC</b> and deploying applications in a secure and scalable way in the cloud.<br><br>
+  I work daily with <b>containers, orchestrators and CI/CD pipelines</b>, connecting development teams with production platforms in an agile and reliable way 🧩.<br><br>
+  I'm comfortable working with <b>Python, Java and .NET</b>, building APIs and services with frameworks like <b>Spring Boot</b> and <b>Angular</b> to deliver end-to-end solutions ⚙️.<br><br>
+  I'm especially interested in <b>observability</b>, <b>code security</b> and <b>performance</b>, relying on reporting, metrics and continuous analysis tools 📈.<br><br>
+  I'm always learning new technologies, patterns and best practices to push every project one step further 🎯.
+
 </p>
 
 ---

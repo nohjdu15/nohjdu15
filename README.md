@@ -52,7 +52,7 @@
 <div align="left">
   <b>Cloud & DevOps</b><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins" title="Jenkins"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="github actions" />
 
@@ -72,7 +72,7 @@
   <br/>
   <b>Operating Systems & Version Control</b><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="ubuntu" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
@@ -92,7 +92,7 @@
   <img src="https://img.shields.io/badge/Kiuwan-512BD4?logoColor=white&style=for-the-badge" height="30" alt="kiuwan" />
   <img src="https://cdn.simpleicons.org/trivy/20C997" height="40" alt="trivy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" />
-  <img src="https://logos.fandom.com/es/wiki/Microsoft_Power_BI" height="30" alt="power bi" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000000&style=for-the-badge" height="30" alt="power bi" />
 </div>
 
 ---

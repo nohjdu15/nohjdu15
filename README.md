@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVsYW43azlxZmNzcTRheHh6ZjFhYjZ0ZHlnNzRxem9jaDc5ZHB2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kgUkCLMu3xhw1T6txv/giphy.gif" alt="Main DevOps animation" />
+  <img height="220" src="https://media4.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif" alt="Main DevOps animation" />
 
   <h1 align="center">Welcome to my GitHub space ☁️🚀</h1>
 </div>
@@ -62,9 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original.svg" height="40" alt="rancher" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform" />
-
-  <br/>
-  <b>Programming & Frameworks</b>
+  <b>Programming & Frameworks</b><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet" />
@@ -80,8 +78,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab" />
   <img src="https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white&style=for-the-badge" height="30" alt="gitea" />
-
-  <br/><br/>
   <b>Databases</b><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle" />
@@ -91,11 +87,11 @@
 
   <br/><br/>
   <b>Quality, Security & Observability</b><br/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge" height="30" alt="sonarqube" />
-  <img src="https://img.shields.io/badge/Kiuwan-512BD4?style=for-the-badge" height="30" alt="kiuwan" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge" height="30" alt="sonarqube" />
+  <img src="https://img.shields.io/badge/Kiuwan-512BD4?logoColor=white&style=for-the-badge" height="30" alt="kiuwan" />
   <img src="https://cdn.simpleicons.org/trivy/20C997" height="40" alt="trivy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" height="30" alt="power bi" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000000&style=for-the-badge" height="30" alt="power bi" />
 </div>
 
 ---

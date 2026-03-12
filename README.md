@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer;Infraestructura+como+Codigo+%7C+CI%2FCD+%7C+Containers;Automatizando+todo+en+la+nube+%F0%9F%8C%81" alt="Cloud & DevOps typing animation" />
+  <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hwcHEwNWlsaWwzNW01MjN1bG1zNGc4YjRjdGY2dWllNjlxZTMwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9igGGpaUEYgxyWcji8/giphy.gif" alt="DevOps GIF" />
 </div>
 
 ###
@@ -7,6 +7,9 @@
 <div align="center">
   <a href="https://github.com/nohjdu15" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/jhon-mora-15a8041a0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
 
@@ -43,129 +46,46 @@
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
-<h3 align="left">☁️ Cloud Platforms</h3>
 <div align="left">
+  <!-- Cloud & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" />
-</div>
-<p align="left">
-  <b>Azure Cloud</b> para desplegar, integrar y escalar aplicaciones empresariales.
-</p>
-
----
-
-<h3 align="left">🚀 DevOps & CI/CD</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure devops" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="30" alt="github actions" />
-</div>
-<p align="left">
-  <b>Azure DevOps</b>, <b>Jenkins</b>, <b>ArgoCD</b>, <b>GitHub Actions</b> para pipelines, despliegues automatizados y GitOps.
-</p>
 
----
-
-<h3 align="left">🐳 Containers & Orchestration</h3>
-<div align="left">
+  <!-- Containers & IaC -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
-</div>
-<p align="left">
-  <b>Docker</b>, <b>Kubernetes</b>, <b>OpenShift</b> para empaquetar, orquestar y escalar servicios en entornos productivos.
-</p>
-
----
-
-<h3 align="left">🏗️ Infrastructure as Code (IaC)</h3>
-<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original.svg" height="40" alt="rancher" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform" />
-</div>
-<p align="left">
-  <b>Terraform</b>, <b>ARM templates</b> y <b>Bicep</b> para describir infraestructuras completas como código, versionables y repetibles.
-</p>
 
----
-
-<h3 align="left">💻 Programming & Scripting</h3>
-<div align="left">
+  <!-- Programming & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet" />
-</div>
-<p align="left">
-  <b>Python</b>, <b>Java</b>, <b>.NET</b> para automatización, servicios backend y aplicaciones empresariales.
-</p>
-
----
-
-<h3 align="left">🧩 Operating Systems</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows" />
-</div>
-<p align="left">
-  Trabajo habitualmente con <b>Linux</b> (servidores, contenedores, entornos cloud) y <b>Windows</b> (entornos corporativos, automatización con PowerShell) para desplegar y operar soluciones híbridas.
-</p>
-
----
-
-<h3 align="left">📦 Frameworks & Development</h3>
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
-</div>
-<p align="left">
-  <b>Spring</b>, <b>Spring Boot</b>, <b>Angular</b> para microservicios, APIs REST y frontends reusables.
-</p>
 
----
-
-<h3 align="left">🔄 Version Control</h3>
-<div align="left">
+  <!-- OS & Version Control -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitea/gitea-original.svg" height="40" alt="gitea" />
-</div>
-<p align="left">
-  <b>Git</b>, <b>GitHub</b>, <b>GitLab</b>, <b>Gitea</b> para flujos colaborativos y repositorios bien organizados.
-</p>
+  <img src="https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white&style=for-the-badge" height="30" alt="gitea" />
 
----
-
-<h3 align="left">🛡️ Code Quality & Security</h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge" height="30" alt="sonarqube" />
-  <img src="https://img.shields.io/badge/Kiuwan-512BD4?logo=kiuwan&logoColor=white&style=for-the-badge" height="30" alt="kiuwan" />
-  <img src="https://img.shields.io/badge/Trivy-20C997?logo=trivy&logoColor=white&style=for-the-badge" height="30" alt="trivy" />
-</div>
-<p align="left">
-  <b>SonarQube</b>, <b>Kiuwan</b>, <b>Trivy</b> para análisis estático, auditoría de dependencias y seguridad en imágenes de contenedor.
-</p>
-
----
-
-<h3 align="left">🗄️ Databases</h3>
-<div align="left">
+  <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-</div>
-<p align="left">
-  <b>PostgreSQL</b>, <b>Oracle</b>, <b>MariaDB</b>, <b>MongoDB</b> según las necesidades de cada solución.
-</p>
 
----
-
-<h3 align="left">📊 Monitoring & Observability</h3>
-<div align="left">
+  <!-- Quality, Security & Observability -->
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge" height="30" alt="sonarqube" />
+  <img src="https://img.shields.io/badge/Kiuwan-512BD4?logo=kiuwan&logoColor=white&style=for-the-badge" height="30" alt="kiuwan" />
+  <img src="https://img.shields.io/badge/Trivy-20C997?logo=trivy&logoColor=white&style=for-the-badge" height="30" alt="trivy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" />
 </div>
-<p align="left">
-  <b>Grafana</b>, <b>Power BI</b> para dashboards, reporting y visibilidad extremo a extremo.
-</p>
 
 ---
 

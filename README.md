@@ -1,4 +1,9 @@
 <div align="center">
+
+
+
+<h1 align="center">Welcome to my GitHub space ☁️🚀</h1>
+
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nohj+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;Infrastructure+as+Code+%7C+Containers+%7C+CI%2FCD" alt="Cloud & DevOps typing animation" />
 </div>
 
@@ -21,7 +26,6 @@
 
 ###
 
-<h1 align="center">Welcome to my GitHub space ☁️🚀</h1>
 
 ---
 
@@ -80,11 +84,11 @@
 
   <br/><br/>
   <b>Quality, Security & Observability</b><br/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge" height="30" alt="sonarqube" />
-  <img src="https://img.shields.io/badge/Kiuwan-512BD4?logo=kiuwan&logoColor=white&style=for-the-badge" height="30" alt="kiuwan" />
-  <img src="https://img.shields.io/badge/Trivy-20C997?logo=trivy&logoColor=white&style=for-the-badge" height="30" alt="trivy" />
+  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="40" alt="sonarqube" />
+  <img src="https://img.shields.io/badge/Kiuwan-512BD4?style=for-the-badge" height="30" alt="kiuwan" />
+  <img src="https://cdn.simpleicons.org/trivy/20C997" height="40" alt="trivy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000000&style=for-the-badge" height="30" alt="power bi" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="power bi" />
 </div>
 
 ---
@@ -103,7 +107,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=nohjdu15&color_snake=00ff99&color_dots=1b1f23,39d353,f1e05a,ff006e" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/nohjdu15/nohjdu15/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ###

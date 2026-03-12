@@ -78,7 +78,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab" />
   <img src="https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white&style=for-the-badge" height="30" alt="gitea" />
-  <br/><br/>
+  <br/>
   <b>Databases</b><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle" />
@@ -88,7 +88,7 @@
 
   <br/>
   <b>Quality, Security & Observability</b><br/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge" height="30" alt="sonarqube" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="40" alt="sonarqube" title="SonarQube"/>
   <img src="https://img.shields.io/badge/Kiuwan-512BD4?logoColor=white&style=for-the-badge" height="30" alt="kiuwan" />
   <img src="https://cdn.simpleicons.org/trivy/20C997" height="40" alt="trivy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" />
@@ -111,7 +111,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nohjdu15/nohjdu15/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=nohjdu15&color_snake=00ff99&color_dots=1b1f23,39d353,f1e05a,ff006e" alt="Snake animation" />
 </div>
 
 ###

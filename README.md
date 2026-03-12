@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Nohj+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;Infraestructura+como+Código+%7C+Containers+%7C+Observabilidad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Nohj+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;Infraestructura+como+Codigo+%7C+Containers+%7C+Observabilidad" alt="Typing SVG" />
 </div>
 
 ###
@@ -57,9 +57,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure devops" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="30" alt="github actions" />
 </div>
 <p align="left">
-  <b>Azure DevOps</b>, <b>Jenkins</b>, <b>ArgoCD</b> para pipelines, despliegues automatizados y GitOps.
+  <b>Azure DevOps</b>, <b>Jenkins</b>, <b>ArgoCD</b>, <b>GitHub Actions</b> para pipelines, despliegues automatizados y GitOps.
 </p>
 
 ---
@@ -80,7 +81,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform" />
 </div>
 <p align="left">
-  <b>Terraform</b> para describir infraestructuras completas como código, versionables y repetibles.
+  <b>Terraform</b>, <b>ARM templates</b> y <b>Bicep</b> para describir infraestructuras completas como código, versionables y repetibles.
 </p>
 
 ---
@@ -89,7 +90,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".net" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet" />
 </div>
 <p align="left">
   <b>Python</b>, <b>Java</b>, <b>.NET</b> para automatización, servicios backend y aplicaciones empresariales.
@@ -112,14 +113,21 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitea/gitea-original.svg" height="40" alt="gitea" />
 </div>
 <p align="left">
-  <b>Git</b>, <b>GitHub</b>, <b>Gitea</b> para flujos colaborativos y repositorios bien organizados.
+  <b>Git</b>, <b>GitHub</b>, <b>GitLab</b>, <b>Gitea</b> para flujos colaborativos y repositorios bien organizados.
 </p>
 
 ---
 
 <h3 align="left">🛡️ Code Quality & Security</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge" height="30" alt="sonarqube" />
+  <img src="https://img.shields.io/badge/Kiuwan-512BD4?logo=kiuwan&logoColor=white&style=for-the-badge" height="30" alt="kiuwan" />
+  <img src="https://img.shields.io/badge/Trivy-20C997?logo=trivy&logoColor=white&style=for-the-badge" height="30" alt="trivy" />
+</div>
 <p align="left">
   <b>SonarQube</b>, <b>Kiuwan</b>, <b>Trivy</b> para análisis estático, auditoría de dependencias y seguridad en imágenes de contenedor.
 </p>
@@ -163,7 +171,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nohjdu15/nohjdu15/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/nohjdu15/nohjdu15/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ###

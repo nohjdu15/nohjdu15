@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ5cm05emZsdHBmaWR2NDFobzV4anJzdXpvZnc4ZzZ1NTJpeXB3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer;Infraestructura+como+Codigo+%7C+CI%2FCD+%7C+Containers;Automatizando+todo+en+la+nube+%F0%9F%8C%81" alt="Cloud & DevOps typing animation" />
 </div>
 
 ###
@@ -95,6 +95,17 @@
 </div>
 <p align="left">
   <b>Python</b>, <b>Java</b>, <b>.NET</b> para automatización, servicios backend y aplicaciones empresariales.
+</p>
+
+---
+
+<h3 align="left">🧩 Operating Systems</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows" />
+</div>
+<p align="left">
+  Trabajo habitualmente con <b>Linux</b> (servidores, contenedores, entornos cloud) y <b>Windows</b> (entornos corporativos, automatización con PowerShell) para desplegar y operar soluciones híbridas.
 </p>
 
 ---

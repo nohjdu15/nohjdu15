@@ -92,7 +92,7 @@
   <img src="https://img.shields.io/badge/Kiuwan-512BD4?logoColor=white&style=for-the-badge" height="30" alt="kiuwan" />
   <img src="https://cdn.simpleicons.org/trivy/20C997" height="40" alt="trivy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000000&style=for-the-badge" height="30" alt="power bi" />
+  <img src="https://logos.fandom.com/es/wiki/Microsoft_Power_BI" height="30" alt="power bi" />
 </div>
 
 ---

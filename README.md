@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JoM2Z2YjUxam4yODZnbDZ1N3V0dThyY2IwYjV0dG4zdmE5Y2g1OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6gbbos0OEd0xG1LG/giphy.gif" alt="DevOps GIF" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nohj+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;Infrastructure+as+Code+%7C+Containers+%7C+CI%2FCD" alt="Cloud & DevOps typing animation" />
 </div>
 
 ###
@@ -17,12 +17,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nohjdu15&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nohj+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;Infrastructure+as+Code+%7C+Containers+%7C+Observability" alt="Typing SVG" />
 </div>
 
 ###
@@ -51,17 +45,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="30" alt="github actions" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="github actions" />
 
-  <br/><br/>
+  <br/>
   <b>Containers & IaC</b><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original.svg" height="40" alt="rancher" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform" />
 
-  <br/><br/>
-  <b>Programming & Frameworks</b><br/>
+  <br/>
+  <b>Programming & Frameworks</b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet" />
@@ -109,7 +103,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nohjdu15/nohjdu15/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=nohjdu15&color_snake=00ff99&color_dots=1b1f23,39d353,f1e05a,ff006e" alt="Snake animation" />
 </div>
 
 ###

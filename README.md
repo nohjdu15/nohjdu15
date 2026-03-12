@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hwcHEwNWlsaWwzNW01MjN1bG1zNGc4YjRjdGY2dWllNjlxZTMwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9igGGpaUEYgxyWcji8/giphy.gif" alt="DevOps GIF" />
+  <img height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JoM2Z2YjUxam4yODZnbDZ1N3V0dThyY2IwYjV0dG4zdmE5Y2g1OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6gbbos0OEd0xG1LG/giphy.gif" alt="DevOps GIF" />
 </div>
 
 ###
@@ -22,12 +22,12 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Nohj+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;Infraestructura+como+Codigo+%7C+Containers+%7C+Observabilidad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nohj+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;Infrastructure+as+Code+%7C+Containers+%7C+Observability" alt="Typing SVG" />
 </div>
 
 ###
 
-<h1 align="center">Bienvenido a mi espacio en GitHub ☁️🚀</h1>
+<h1 align="center">Welcome to my GitHub space ☁️🚀</h1>
 
 ---
 
@@ -47,26 +47,29 @@
 <h2 align="left">🛠️ Tech Stack</h2>
 
 <div align="left">
-  <!-- Cloud & DevOps -->
+  <b>Cloud & DevOps</b><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="30" alt="github actions" />
 
-  <!-- Containers & IaC -->
+  <br/><br/>
+  <b>Containers & IaC</b><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original.svg" height="40" alt="rancher" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform" />
 
-  <!-- Programming & Frameworks -->
+  <br/><br/>
+  <b>Programming & Frameworks</b><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
 
-  <!-- OS & Version Control -->
+  <br/><br/>
+  <b>Operating Systems & Version Control</b><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
@@ -74,17 +77,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab" />
   <img src="https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white&style=for-the-badge" height="30" alt="gitea" />
 
-  <!-- Databases -->
+  <br/><br/>
+  <b>Databases</b><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
 
-  <!-- Quality, Security & Observability -->
+  <br/><br/>
+  <b>Quality, Security & Observability</b><br/>
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge" height="30" alt="sonarqube" />
   <img src="https://img.shields.io/badge/Kiuwan-512BD4?logo=kiuwan&logoColor=white&style=for-the-badge" height="30" alt="kiuwan" />
   <img src="https://img.shields.io/badge/Trivy-20C997?logo=trivy&logoColor=white&style=for-the-badge" height="30" alt="trivy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000000&style=for-the-badge" height="30" alt="power bi" />
 </div>
 
 ---
@@ -109,6 +115,6 @@
 ###
 
 <p align="center">
-  💬 ¿Te interesa colaborar en algo de Cloud, DevOps u Observabilidad?<br/>
-  <b>Abro PRs, issues y opiniones con gusto 😄</b>
+  💬 Interested in collaborating on Cloud, DevOps or Observability?<br/>
+  <b>Happy to discuss PRs, issues and ideas 😄</b>
 </p>

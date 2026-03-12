@@ -1,10 +1,7 @@
 <div align="center">
+  <img height="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVsYW43azlxZmNzcTRheHh6ZjFhYjZ0ZHlnNzRxem9jaDc5ZHB2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kgUkCLMu3xhw1T6txv/giphy.gif" alt="Main DevOps animation" />
 
-
-
-<h1 align="center">Welcome to my GitHub space ☁️🚀</h1>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nohj+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;Infrastructure+as+Code+%7C+Containers+%7C+CI%2FCD" alt="Cloud & DevOps typing animation" />
+  <h1 align="center">Welcome to my GitHub space ☁️🚀</h1>
 </div>
 
 ###
@@ -42,6 +39,14 @@
 
 ---
 
+<h2 align="left">🎓 Certifications</h2>
+
+<div align="left">
+  <img height="160" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHprbDR4cWUyZGppYnpvdXl3MWs1eWF2Z3pzMHcyaWpkeW1hZ2dqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBFOxlDsuAaozaE1D5/giphy.gif" alt="Azure Fundamentals" />
+</div>
+
+---
+
 <h2 align="left">🛠️ Tech Stack</h2>
 
 <div align="left">
@@ -69,6 +74,7 @@
   <br/><br/>
   <b>Operating Systems & Version Control</b><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
@@ -81,14 +87,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge" height="30" alt="dbeaver" />
 
   <br/><br/>
   <b>Quality, Security & Observability</b><br/>
-  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="40" alt="sonarqube" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge" height="30" alt="sonarqube" />
   <img src="https://img.shields.io/badge/Kiuwan-512BD4?style=for-the-badge" height="30" alt="kiuwan" />
   <img src="https://cdn.simpleicons.org/trivy/20C997" height="40" alt="trivy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="power bi" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" height="30" alt="power bi" />
 </div>
 
 ---
